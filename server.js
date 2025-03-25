@@ -39,7 +39,7 @@ app.post('/api/book-event', async (req, res) => {
         html: `
             <div style="font-family: Arial, sans-serif; max-width: 650px; margin: auto; padding: 20px; border-radius: 10px; background: #f4f4f4;">
                 <div style="text-align: center; background: #0073e6; padding: 15px; border-radius: 10px 10px 0 0;">
-                    <div style="font-size: 1.875rem; font-weight: bold; color: #ea580c;">Anjani Catering Services</div>
+                    <div style="font-size: 1.875rem; font-weight: bold; color: #fffff;">Anjani Catering Services</div>
                     <h2 style="color: #fff; margin: 10px 0;">Booking Confirmation</h2>
                 </div>
                 <div style="background: #ffffff; padding: 20px; border-radius: 0 0 10px 10px;">
