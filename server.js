@@ -39,7 +39,7 @@ app.post('/api/book-event', async (req, res) => {
         html: `
             <div style="font-family: Arial, sans-serif; max-width: 650px; margin: auto; padding: 20px; border-radius: 10px; background: #f4f4f4;">
                 <div style="text-align: center; background: #0073e6; padding: 15px; border-radius: 10px 10px 0 0;">
-                    <img src="YOUR_LOGO_URL" alt="Company Logo" style="width: 120px;">
+                    <div style="font-size: 1.875rem; font-weight: bold; color: #ea580c;">Anjani Catering Services</div>
                     <h2 style="color: #fff; margin: 10px 0;">Booking Confirmation</h2>
                 </div>
                 <div style="background: #ffffff; padding: 20px; border-radius: 0 0 10px 10px;">
@@ -54,10 +54,10 @@ app.post('/api/book-event', async (req, res) => {
                     </div>
                     <p style="color: #555;">We are excited to make your event special! If you need any assistance, feel free to reach out.</p>
                     <div style="text-align: center; margin-top: 20px;">
-                        <a href="YOUR_WEBSITE_URL" style="background: #0073e6; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">Visit Our Website</a>
+                        <a href="https://anjanicateringservices.netlify.app/" style="background: #0073e6; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">Visit Our Website</a>
                     </div>
                     <hr style="margin: 20px 0; border: 0.5px solid #ddd;">
-                    <p style="text-align: center; color: #777; font-size: 14px;">📞 <strong>Phone:</strong> YOUR_PHONE_NUMBER | 📧 <strong>Email:</strong> YOUR_EMAIL</p>
+                    <p style="text-align: center; color: #777; font-size: 14px;">📞 <strong>Phone:</strong> +91-9752973526 | 📧 <strong>Email:</strong>akashraikwar763@gmail.com</p>
                 </div>
             </div>
         `
@@ -89,7 +89,7 @@ app.post('/api/book-event', async (req, res) => {
                     </div>
                     <p style="color: #555;">Please review and follow up if necessary.</p>
                     <div style="text-align: center; margin-top: 20px;">
-                        <a href="YOUR_WEBSITE_URL" style="background: #d9534f; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">View Booking Dashboard</a>
+                        <a href="https://anjanicateringservices.netlify.app/" style="background: #d9534f; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">View Booking Dashboard</a>
                     </div>
                     <hr style="margin: 20px 0; border: 0.5px solid #ddd;">
                     <p style="text-align: center; color: #777; font-size: 14px;">📞 <strong>Phone:</strong> YOUR_PHONE_NUMBER | 📧 <strong>Email:</strong> YOUR_EMAIL</p>
